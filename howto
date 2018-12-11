@@ -1,0 +1,5 @@
+1. make the test code work on windows and mac
+2. use QtProcess instead of pthreads
+3. make use of  debug versions of Qt libraries
+4. integrate in ElMaven
+
